@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbalash3.github.io/guessgroup-kaiyun-com-cn/sitemap.xml
